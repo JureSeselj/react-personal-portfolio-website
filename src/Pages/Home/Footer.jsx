@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          <img src="./img/logo.png" height="40%" width="40%" alt="Jure Seselj" />
         </div>
         <div className="footer--items">
           <ul>
@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/jure-seselj-062654192/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

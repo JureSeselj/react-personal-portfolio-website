@@ -29,23 +29,23 @@
         {
           "id": "1",
           "src": "./img/placeholder-image.png",
-          "title": "Ahuse",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-          "link": "View In Github"
+          "title": "Tasty Blog",
+          "description": "Welcome to Tasty Blog, this project is a Full Stack website built using the Django framework. Tasty Blog is a recipe book where users can look or search for a recipe to prepare. When the user is logged in they can also like/unlike a post and comment on a post. They can also share their favourite cookbooks by adding a post on the Books Page and upload or update their user image and details.",
+          "link": "View In GitHub"
         },
         {
           "id": "2",
           "src": "./img/placeholder-image-1.png",
-          "title": "App Dashboard",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-          "link": "View In Github"
+          "title": "Harmonize App",
+          "description": "Harmonize is a platform where users can share photos they made with the rest of the community. Everyone can like other users' pictures and share their opinion on a certain post. Users can also follow their favourite profiles and easily see updates on their activity. Harmonize is an app for all photo lovers who want to get inspired or share inspirations with others.",
+          "link": "View In GitHub"
         },
         {
           "id": "3",
           "src": "./img/placeholder-image-2.png",
-          "title": "Easy Rentn",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-          "link": "View In Github"
+          "title": "Explore The World",
+          "description": "Welcome to Explore The World, a geography game which takes you on a journey around the world and challenges your knowledge to answer multiple choice questions. Try to answer all the questions while traveling the world to explore your next destination. If you would like to test your geography and landmarks knowledge, this is the game for you!",
+          "link": "View In GitHub"
         }
     ]
 }
