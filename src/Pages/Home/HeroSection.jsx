@@ -15,7 +15,10 @@ export default function HeroSection() {
             I'm ready to bring my passion for coding and commitment to excellence to your organization.
             </p>
           </div>
+          <br /><br />
+          <a href="https://www.linkedin.com/in/jure-seselj-062654192/" target="_blank">
           <button className="btn btn-primary">Get In Touch</button>
+          </a>
         </div>
         <div className="hero--section--img">
           <img src="./img/hero_img.png" alt="Hero Section" />
