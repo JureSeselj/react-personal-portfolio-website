@@ -15,8 +15,8 @@ export default function HeroSection() {
             I'm ready to bring my passion for coding and commitment to excellence to your organization.
             </p>
           </div>
-          <br /><br />
-          <a href="https://www.linkedin.com/in/jure-seselj-062654192/" target="_blank">
+          <br/><br />
+          <a href="https://www.linkedin.com/in/jure-seselj-062654192/" target="_blank" rel="noopener">
           <button className="btn btn-primary">Get In Touch</button>
           </a>
         </div>
